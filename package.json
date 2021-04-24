@@ -1,0 +1,23 @@
+{
+  "name": "abonebot",
+  "version": "0.0.1",
+  "description": "bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "keywords": [
+    "abonebot"
+  ],
+  "author": "`Thanos'?#5391",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "humanize-duration": "^3.25.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.3"
+  }
+}
